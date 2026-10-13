@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Debug Generator": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\TestingDevenvprodtest.Cqs.Api\\TestingDevenvprodtest.Cqs.Api.csproj"
+    }
+  }
+}

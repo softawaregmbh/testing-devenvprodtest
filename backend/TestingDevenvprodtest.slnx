@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="TestingDevenvprodtest.AppHost/TestingDevenvprodtest.AppHost.csproj" />
+  <Project Path="TestingDevenvprodtest.Cqs.Api.Generator/TestingDevenvprodtest.Cqs.Api.Generator.csproj" />
+  <Project Path="TestingDevenvprodtest.Cqs.Api.Tests/TestingDevenvprodtest.Cqs.Api.Tests.csproj" />
+  <Project Path="TestingDevenvprodtest.Cqs.Api/TestingDevenvprodtest.Cqs.Api.csproj" />
+  <Project Path="TestingDevenvprodtest.Cqs/TestingDevenvprodtest.Cqs.csproj" />
+  <Project Path="TestingDevenvprodtest.EntityFramework/TestingDevenvprodtest.EntityFramework.csproj" Id="e196309f-47aa-4c2d-bb39-cdb952cce5d3" />
+  <Project Path="TestingDevenvprodtest.ServiceDefaults/TestingDevenvprodtest.ServiceDefaults.csproj" Id="ebfda05c-1a32-4259-82b2-65ae263008f7" />
+</Solution>
